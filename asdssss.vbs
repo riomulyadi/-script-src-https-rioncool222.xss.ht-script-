@@ -1,0 +1,1 @@
+MsgBox "Error when typing!!"Set wshShell =wscript.CreateObject("WScript.Shell")dowscript.sleep 100wshshell.sendkeys "{bs}"loop
